@@ -1,0 +1,12 @@
+﻿<Window x:Class="Wpfexercice2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfexercice2"
+        mc:Ignorable="d"
+        Title="Afficher un message" Height="450" Width="800">
+    <Grid Margin="10,0,2,0">
+        <Button HorizontalAlignment="Left" Margin="39.404,151,0,0" VerticalAlignment="Top" Width="75" Height="44" Content="Cliquez" Click="Button_Click"/> <!-- Ajoute un button et lui ajoute plusieurs valeur ainsi qu'un événement Click-->
+    </Grid>
+</Window>

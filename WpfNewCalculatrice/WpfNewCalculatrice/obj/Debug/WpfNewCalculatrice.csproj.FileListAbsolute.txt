@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice_MarkupCompile.cache
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice_MarkupCompile.lref
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\bin\Debug\WpfNewCalculatrice.exe.config
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\bin\Debug\WpfNewCalculatrice.exe
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\bin\Debug\WpfNewCalculatrice.pdb
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice.g.resources
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice.Properties.Resources.resources
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice.exe
+C:\Users\Dell\source\repos\WpfNewCalculatrice\WpfNewCalculatrice\obj\Debug\WpfNewCalculatrice.pdb

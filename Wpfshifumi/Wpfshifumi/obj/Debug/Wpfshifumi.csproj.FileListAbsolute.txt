@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Wpfshifumi\Wpfshifumi\obj\Debug\Wpfshifumi.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Wpfshifumi\Wpfshifumi\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\Wpfshifumi\Wpfshifumi\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\Wpfshifumi\Wpfshifumi\obj\Debug\Wpfshifumi_MarkupCompile.cache
+C:\Users\Dell\source\repos\Wpfshifumi\Wpfshifumi\obj\Debug\Wpfshifumi_MarkupCompile.lref

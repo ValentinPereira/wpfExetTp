@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi_MarkupCompile.cache
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi_MarkupCompile.lref
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\bin\Debug\WpfNewShifumi.exe.config
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\bin\Debug\WpfNewShifumi.exe
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\bin\Debug\WpfNewShifumi.pdb
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi.g.resources
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi.Properties.Resources.resources
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi.exe
+C:\Users\Dell\source\repos\WpfNewShifumi\WpfNewShifumi\obj\Debug\WpfNewShifumi.pdb

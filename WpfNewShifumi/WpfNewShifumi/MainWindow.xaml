@@ -1,0 +1,63 @@
+﻿<Window x:Class="WpfNewShifumi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfNewShifumi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="1000">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240*"/>
+            <ColumnDefinition Width="240*"/>
+            <ColumnDefinition Width="240*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="47*"/>
+            <RowDefinition Height="17*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="17*"/>
+        </Grid.RowDefinitions>
+        <Image Source="pierre-removebg.png" Stretch="Fill"/>
+        <Image Grid.Column="1" Source="feuille-removebg.png" Stretch="Fill"/>
+        <Image Grid.Column="2" Source="ciseaux-removebg.png" Stretch="Fill"/>
+        <Button Name="buttonStone" Content="GoStone" Margin="79,26,81,12" Grid.Row="2" Click="ButtonRock_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF616161" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Name="buttonPaper" Content="GoPaper" Grid.Row="2" Grid.Column="1" Margin="85,26,75,12" Click="ButtonPaper_Click" Foreground="#FF000803">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="White" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Name="buttonChisel" Content="GoChisel" Grid.Column="2" Margin="83,26,83,12" Grid.Row="2" Click="ButtonChisel_Click" Foreground="#FF008938">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF6EEA3F" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock Name="win" Grid.Row="3" TextWrapping="Wrap" TextAlignment="Center" FontSize="36"><Run FontFamily="MS Mincho" Text="gagn"/><Run FontFamily="MS Mincho" Text="é"/></TextBlock>
+        <TextBlock x:Name="egality" Grid.Column="1" TextAlignment="Center" Grid.Row="3" TextWrapping="Wrap" FontSize="36" FontFamily="MS Mincho"><Run Text="égalit"/><Run Text="é"/></TextBlock>
+        <TextBlock Name="lose" Grid.Column="2" Margin="5,0,0,0" TextAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="Perdu" VerticalAlignment="Top" Height="75" FontSize="36" FontFamily="MS Mincho"/>
+        <Button Name="btnPlay" Content="Play" Margin="0,0,0,69" Grid.Row="1" Background="White" Click="ButtonPlay_Click" Grid.ColumnSpan="3" FontSize="36" FontFamily="MS Mincho" Grid.RowSpan="2"/>
+        <Button Name="btnReplayGame" Visibility="Hidden" Content="rejouer" Grid.Column="1" HorizontalAlignment="Left" Margin="85,53,0,0" VerticalAlignment="Top" Width="75" Grid.Row="3" Click="BtnReplayGame_Click" Height="22"/>
+        <TextBlock Name="resultTextBlock" Grid.Column="2" HorizontalAlignment="Left" Margin="27,32,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Résultat :" VerticalAlignment="Top" FontSize="24" FontFamily="MS Mincho"/>
+        <TextBlock Name="statsTextBlock" HorizontalAlignment="Left" Margin="28,32,0,0" TextWrapping="Wrap" Text="Statistique :" VerticalAlignment="Top" Grid.Row="1" FontSize="24" FontFamily="MS Mincho"/>
+        <TextBlock Name="percentsTextBlock" HorizontalAlignment="Left" Margin="10,42,0,0" TextWrapping="Wrap" Text="Pourcents :" VerticalAlignment="Top" Grid.Row="3" FontSize="24" FontFamily="MS Mincho"/>
+    </Grid>
+</Window>

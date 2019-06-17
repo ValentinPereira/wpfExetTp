@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\bin\Debug\WpfExercice3bon.exe.config
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\bin\Debug\WpfExercice3bon.exe
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\bin\Debug\WpfExercice3bon.pdb
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon_MarkupCompile.cache
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon_MarkupCompile.lref
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon.g.resources
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon.Properties.Resources.resources
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon.exe
+C:\Users\Dell\source\repos\WpfExercice3bon\WpfExercice3bon\obj\Debug\WpfExercice3bon.pdb

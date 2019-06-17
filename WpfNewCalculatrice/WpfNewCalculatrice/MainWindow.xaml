@@ -1,0 +1,44 @@
+﻿<Window x:Class="WpfNewCalculatrice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfNewCalculatrice"
+        mc:Ignorable="d"
+        Title="Calculatrice" Height="400" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions> <!-- Définie la largeur des colonnes horizontales -->
+            <ColumnDefinition Width="65"/> <!-- Une etoile après une première valeur sépaare en part egale les autres -->
+            <ColumnDefinition Width="76"/>
+            <ColumnDefinition Width="79"/>
+            <ColumnDefinition Width="70"/>
+            <ColumnDefinition Width="3"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions> <!-- Définie la longueur colonnes verticales-->
+            <RowDefinition Height="16*"/>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="12*"/> 
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="0*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="resultNumber" Background="#e1d0e4" HorizontalAlignment="Left" TextWrapping="Wrap" Text="" Width="293" Grid.ColumnSpan="5"/> <!-- Crée un bloque de texte qui affiche le resultat-->
+        <Button x:Name="resetButton" Background="#fc5f6e" Content="Reset" HorizontalAlignment="Left" VerticalAlignment="Top" Width="141" Height="55" Click="resetButton_Click" Grid.ColumnSpan="2" Grid.Row="1"/> <!-- Crée plusieurs boutons pour calculer avec leurs actions définies-->
+        <Button x:Name="divideButton" Background="#99f5ce" Content="/" RenderTransformOrigin="0,0.5" Grid.Row="1" Grid.Column="2" Click="DivideButton_Click"/>
+        <Button x:Name="multiButton" Background="#99f5ce" Content="*" Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="3" Click="MultiButton_Click"/>
+        <Button x:Name="sevenButton" Content="7" Click="SevenButton_Click" Grid.Row="2"/>
+        <Button x:Name="eightButton" Content="8" Click="eightButton_Click" RenderTransformOrigin="1.544,0.472" Grid.Column="1" Grid.Row="2"/>
+        <Button x:Name="nineButton" Content="9" HorizontalAlignment="Left" VerticalAlignment="Top" Width="79" Height="60" Click="nineButton_Click" Grid.Row="2" Grid.Column="2"/>
+        <Button x:Name="lessButton" Content="-" HorizontalAlignment="Left" Width="70" Grid.Column="3" Grid.Row="2" Click="LessButton_Click"/>
+        <Button x:Name="fourButton" Content="4" Click="FourButton_Click" Grid.Row="3"/>
+        <Button x:Name="fiveButton" Content="5" Click="FiveButton_Click" Grid.Column="1" Grid.Row="3"/>
+        <Button x:Name="sixButton" Content="6" Click="SixButton_Click" Grid.Column="2" Grid.Row="3"/>
+        <Button x:Name="moreButton" Content="+" Click="MoreButton_Click" Grid.Column="3" Grid.Row="3"/>
+        <Button x:Name="oneButton" Content="1" Click="OneButton_Click" RenderTransformOrigin="0.504,1.426" Grid.Row="4"/>
+        <Button x:Name="twoButton" Content="2" Click="TwoButton_Click" Grid.Column="1" Grid.Row="4"/>
+        <Button x:Name="threeButton" Content="3" Click="ThreeButton_Click" Grid.Column="2" Grid.Row="4"/>
+        <Button x:Name="zeroButton" Content="0" Click="ZeroButton_Click" Grid.ColumnSpan="3" Grid.Row="5"/>
+        <Button x:Name="equalButton" Content="=" Click="EqualButton_Click" Grid.Row="4" Grid.RowSpan="2" Grid.Column="3" Grid.ColumnSpan="2"/>
+    </Grid>
+</Window>

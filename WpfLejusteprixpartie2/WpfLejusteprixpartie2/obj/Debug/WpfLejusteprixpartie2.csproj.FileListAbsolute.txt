@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2_MarkupCompile.cache
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2_MarkupCompile.lref
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\bin\Debug\WpfLejusteprixpartie2.exe.config
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\bin\Debug\WpfLejusteprixpartie2.exe
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\bin\Debug\WpfLejusteprixpartie2.pdb
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2.g.resources
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2.Properties.Resources.resources
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2.exe
+C:\Users\Dell\source\repos\WpfLejusteprixpartie2\WpfLejusteprixpartie2\obj\Debug\WpfLejusteprixpartie2.pdb

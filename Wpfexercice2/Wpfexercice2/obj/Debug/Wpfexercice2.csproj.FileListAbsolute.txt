@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\bin\Debug\Wpfexercice2.exe.config
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\bin\Debug\Wpfexercice2.exe
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\bin\Debug\Wpfexercice2.pdb
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2_MarkupCompile.cache
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2_MarkupCompile.lref
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\MainWindow.baml
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2.g.resources
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2.Properties.Resources.resources
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2.exe
+C:\Users\Dell\source\repos\Wpfexercice2\Wpfexercice2\obj\Debug\Wpfexercice2.pdb

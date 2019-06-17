@@ -1,0 +1,4 @@
+C:\Users\Dell\source\repos\WpfCalculatrice\WpfCalculatrice\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\source\repos\WpfCalculatrice\WpfCalculatrice\obj\Debug\App.g.cs
+C:\Users\Dell\source\repos\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice_MarkupCompile.cache
+C:\Users\Dell\source\repos\WpfCalculatrice\WpfCalculatrice\obj\Debug\WpfCalculatrice_MarkupCompile.lref

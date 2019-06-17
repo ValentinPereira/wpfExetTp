@@ -1,0 +1,14 @@
+﻿<Window x:Class="Wpfexercice5manu.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpfexercice5manu"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800">
+    <Grid>
+        <Image Height="600" Width="800" Source="Exercice5_computer.png" Stretch="Fill"/>
+        <Image Height="250" Width="200" Source="Exercice5_laManu.jpg" Stretch="Fill" Margin="302,146,290,174"/>
+        <TextBlock HorizontalAlignment="Left" TextAlignment="Center" Foreground="#29AAE3" TextWrapping="Wrap" Text="Avec La Manu  j'apprends à devenir un bon développeur" FontWeight="SemiBold" VerticalAlignment="Top" Margin="128,60,136,0" Height="105" Width="528" FontSize="36" FontFamily="Times New Roman"/>
+    </Grid>
+</Window>
